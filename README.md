@@ -10,6 +10,8 @@
 
 - [Node.js Full Course](https://github.com/T-Tetunashvili/Node.js-course)
 
+<br/><br/>
+
 ### 💡 Random Web Projects
 
 #### Description
@@ -17,6 +19,8 @@
 > Practice key features in isolation to gain confidence before combining them into full applications.
 
 - [Front-end E-commerce Website](https://github.com/T-Tetunashvili/Front-end-E-commerce-website)
+
+<br/><br/>
 
 ### 🌐 Fullstack Web Projects
 
