@@ -9,6 +9,7 @@
 > A complete cheat sheet to learn, practice, and revise full-stack web development concepts and technologies.
 
 - [Node.js Full Course](https://github.com/T-Tetunashvili/Node.js-course)
+- [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
 
 <br/><br/>
 
