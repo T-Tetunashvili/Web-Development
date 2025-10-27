@@ -10,7 +10,8 @@
 
 - [Node.js Full Course](https://github.com/T-Tetunashvili/Node.js-course)
 - [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
-
+- [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
+  
 <br/><br/>
 
 ### 💡 Random Web Projects
