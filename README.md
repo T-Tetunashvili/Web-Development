@@ -11,6 +11,17 @@
 - [Node.js Full Course](https://github.com/T-Tetunashvili/Node.js-course)
 - [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
 - [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
+- Advanced Node.js
+  - Core Node.js Fundamentals
+    - [Event Loop & Asynchronous Programming]()
+  - Web Frameworks
+  - Databases & ORMs
+  - Authentication & Security
+  - APIs
+  - Testing
+  - Essential Tools & Concepts
+  - DevOps Basics
+  - Performance & Scalability 
   
 <br/><br/>
 
