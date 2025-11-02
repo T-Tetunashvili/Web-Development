@@ -13,7 +13,7 @@
 - [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
 - Advanced Node.js
   - Core Node.js Fundamentals
-    - [Event Loop & Asynchronous Programming]()
+    - [Event Loop & Asynchronous Programming](https://github.com/T-Tetunashvili/Event-Loop-Asynchronous-Programming)
   - Web Frameworks
   - Databases & ORMs
   - Authentication & Security
