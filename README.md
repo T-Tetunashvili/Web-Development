@@ -14,6 +14,7 @@
 - Advanced Node.js
   - Core Node.js Fundamentals
     - [Event Loop & Asynchronous Programming](https://github.com/T-Tetunashvili/Event-Loop-Asynchronous-Programming)
+    - [Built-in Modules](https://github.com/T-Tetunashvili/Built-in-Modules)
   - Web Frameworks
   - Databases & ORMs
   - Authentication & Security
