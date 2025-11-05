@@ -8,15 +8,14 @@
 
 > A complete cheat sheet to learn, practice, and revise full-stack web development concepts and technologies.
 
-- [Node.js Full Course](https://github.com/T-Tetunashvili/Node.js-course)
-- [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
-- [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
 - Advanced Node.js
   - Core Node.js Fundamentals
     - [Event Loop & Asynchronous Programming](https://github.com/T-Tetunashvili/Event-Loop-Asynchronous-Programming)
     - [Built-in Modules](https://github.com/T-Tetunashvili/Built-in-Modules)
   - Web Frameworks
   - Databases & ORMs
+    - [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
+    - [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
   - Authentication & Security
   - APIs
     - [REST API](https://github.com/T-Tetunashvili/REST-Api)
