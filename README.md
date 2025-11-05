@@ -19,6 +19,7 @@
   - Databases & ORMs
   - Authentication & Security
   - APIs
+    - [REST API](https://github.com/T-Tetunashvili/REST-Api)
   - Testing
   - Essential Tools & Concepts
   - DevOps Basics
