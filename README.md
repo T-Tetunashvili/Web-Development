@@ -8,7 +8,7 @@
 
 > A complete cheat sheet to learn, practice, and revise full-stack web development concepts and technologies.
 
-- Advanced Node.js
+**Advanced Node.js**
   - Core Node.js Fundamentals
     - [Event Loop & Asynchronous Programming](https://github.com/T-Tetunashvili/Event-Loop-Asynchronous-Programming)
     - [Built-in Modules](https://github.com/T-Tetunashvili/Built-in-Modules)
