@@ -22,6 +22,7 @@
   - Testing
   - Essential Tools & Concepts
     - [Winston](https://github.com/T-Tetunashvili/Winston)
+    - [Joi Validations](https://github.com/T-Tetunashvili/Joi-Validations)
   - DevOps Basics
   - Performance & Scalability 
   
