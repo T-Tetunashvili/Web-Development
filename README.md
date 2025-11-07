@@ -23,7 +23,7 @@
   - Essential Tools & Concepts
     - [Winston](https://github.com/T-Tetunashvili/Winston)
     - [Joi Validations](https://github.com/T-Tetunashvili/Joi-Validations)
-    - -[Nodemailer](https://github.com/T-Tetunashvili/Nodemailer)
+    - [Nodemailer](https://github.com/T-Tetunashvili/Nodemailer)
   - DevOps Basics
   - Performance & Scalability 
   
