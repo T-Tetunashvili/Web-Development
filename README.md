@@ -17,6 +17,7 @@
     - [MongoDB Shell (mongosh) Cheatsheet](https://github.com/T-Tetunashvili/Mongosh-Cheatsheet)
     - [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
   - Authentication & Security
+    - [JWTs](https://github.com/T-Tetunashvili/Full-JWT-System)
   - APIs
     - [REST API](https://github.com/T-Tetunashvili/REST-Api)
   - Testing
