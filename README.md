@@ -18,6 +18,7 @@
     - [Mongoose](https://github.com/T-Tetunashvili/Mongoose)
   - Authentication & Security
     - [JWTs](https://github.com/T-Tetunashvili/Full-JWT-System)
+    - [User authentication and management platform](https://github.com/T-Tetunashvili/User-authentication-and-management-platform)
   - APIs
     - [REST API](https://github.com/T-Tetunashvili/REST-Api)
   - Testing
