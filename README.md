@@ -48,3 +48,4 @@
 > Build real-world applications from scratch and see how all the pieces fit together.
 
 - [Fullstack JWT Auth System](https://github.com/T-Tetunashvili/Fullstack-JWT-Aut)
+- [Fullstack E-commerce App](https://github.com/T-Tetunashvili/Fullstack_E-commerce_App)
