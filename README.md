@@ -19,6 +19,8 @@
   - Authentication & Security
     - [JWTs](https://github.com/T-Tetunashvili/Full-JWT-System)
     - [User authentication and management platform](https://github.com/T-Tetunashvili/User-authentication-and-management-platform)
+  - Payment
+    - [Stripe](https://github.com/T-Tetunashvili/Stripe-Payment)
   - APIs
     - [REST API](https://github.com/T-Tetunashvili/REST-Api)
   - Testing
