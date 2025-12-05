@@ -40,7 +40,6 @@
 > Practice key features in isolation to gain confidence before combining them into full applications.
 
 - [Front-end E-commerce Website](https://github.com/T-Tetunashvili/Front-end-E-commerce-website)
-- [Mern Auth](https://github.com/T-Tetunashvili/Mern_Auth)
 
 <br/><br/>
 
@@ -52,3 +51,4 @@
 
 - [Fullstack JWT Auth System](https://github.com/T-Tetunashvili/Fullstack-JWT-Aut)
 - [Fullstack E-commerce App](https://github.com/T-Tetunashvili/Fullstack_E-commerce_App)
+- [Mern Auth](https://github.com/T-Tetunashvili/Mern_Auth)
