@@ -40,6 +40,7 @@
 > Practice key features in isolation to gain confidence before combining them into full applications.
 
 - [Front-end E-commerce Website](https://github.com/T-Tetunashvili/Front-end-E-commerce-website)
+- [Mern Auth](https://github.com/T-Tetunashvili/Mern_Auth)
 
 <br/><br/>
 
